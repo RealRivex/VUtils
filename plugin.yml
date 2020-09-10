@@ -1,0 +1,21 @@
+name: VUtils
+version: 4.0
+api-version: 1.13
+main: de.vngc.VUtils.Main
+load: STARTUP
+author: Rivex
+commands:
+  settings:
+  reset:
+  timer:
+  position:
+    aliases: [pos]
+  heal:
+  backpack:
+    aliases: [bp]
+  mute:
+  invsee:
+  bingo:
+  gm:
+    aliases: [gamemode]
+  config:

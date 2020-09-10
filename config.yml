@@ -1,0 +1,30 @@
+#--------------------------------------------------
+#Challenges-Konfiguration:
+
+#NICHT VERÄNDERN
+reset: false
+
+#NICHT VERÄNDERN
+mute: false
+
+#Tablist-Header + Footer - Können Beliebig eingestellt werden
+header: ""
+footer: ""
+
+
+#In diesen Gamemode werden Spieler beim versagen gesetzt -
+#IN DIESEM FORMAT BEHALTEN:
+#gamemode
+gamemode: SPECTATOR
+
+
+#Kann bei Bungeecord als Lobby-Server festgelegt werden
+reset-server: lobby
+
+timber: true
+cutclean: true
+chatdamage: true
+
+
+
+#--------------------------------------------------
